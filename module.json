@@ -16,5 +16,8 @@
       "url": "https://github.com/RabsuiraGH",
       "flags": {}
     }
+  ],
+  "scripts": [
+    "scripts/colorize-folders.js"
   ]
 }
