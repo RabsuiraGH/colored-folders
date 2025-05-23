@@ -1,0 +1,16 @@
+{
+  "id": "colored-folders",
+  "title": "Colored Folders",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Rabsuira",
+      "url": "https://github.com/RabsuiraGH",
+      "flags": {}
+    }
+  ]
+}
