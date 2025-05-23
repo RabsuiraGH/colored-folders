@@ -1,0 +1,17 @@
+<form>
+  <div class="form-group">
+    <label>Colors:</label>
+    <div id="palette-list">
+      {{#each palette}}
+        <div class="palette-item">
+          <input type="color" name="color-{{@index}}" value="{{this}}"/>
+          <button type="button" class="remove-color">✖</button>
+        </div>
+      {{/each}}
+    </div>
+    <button type="button" id="add-color">Add color</button>
+  </div>
+  <footer class="sheet-footer flexrow">
+    <button type="submit" class="dialog-button">Save</button>
+  </footer>
+</form>

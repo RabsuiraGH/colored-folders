@@ -5,7 +5,7 @@
   "manifest": "https://raw.githubusercontent.com/RabsuiraGH/colored-folders/main/module.json",
   "download": "https://github.com/RabsuiraGH/colored-folders/archive/refs/heads/main.zip",
   "url": "https://github.com/RabsuiraGH/colored-folders",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -19,5 +19,6 @@
   ],
   "scripts": [
     "scripts/colorize-folders.js"
-  ]
+  ],
+  "template": "templates/palette-settings.html"
 }
